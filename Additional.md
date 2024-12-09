@@ -1,1 +1,1 @@
-Additional.md test merge with awesome feature 1
+Additional.md test merge with awesome feature
