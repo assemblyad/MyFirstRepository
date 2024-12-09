@@ -10,3 +10,10 @@
 * Что такое Git
 * Что такое GitHub
 * Что такое Markdown
+
+### what we going to learn 
+*Branch
+*Push
+*Pull/Fetch
+*Merdge
+
