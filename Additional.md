@@ -1,1 +1,1 @@
-Additional.md test 1
+Additional.md TtestConflictBranch file Additonal.MD
